@@ -20,6 +20,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "04cd13b4-46c3-4469-8d39-d0b9d02f9e49"
+      }
+    },
+    "owner": "boris-code"
   }
 }
