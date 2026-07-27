@@ -31,6 +31,17 @@ npm run android
 npm run ios
 ```
 
+## Android builds
+
+Create an installable APK with the `preview` EAS profile:
+
+```bash
+npm run build:apk
+```
+
+The `production` profile creates an Android App Bundle (`.aab`) for Google
+Play.
+
 ## Connection behavior
 
 - Desktop and Web open the official ChatGPT sign-in page.

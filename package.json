@@ -13,6 +13,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
+    "build:apk": "npx eas-cli build --platform android --profile preview",
     "doctor": "npx expo-doctor"
   },
   "private": true
